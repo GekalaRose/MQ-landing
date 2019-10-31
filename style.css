@@ -1,8 +1,8 @@
 /* Custom properties/variables  */
 :root {
   --main-white: #f0f0f0;
-  --main-red: #83c03d;
-  --main-blue: #99D5C9;
+  --main-red: #ff7d00;
+  --main-blue: #C5CBCD;
   --main-gray: #303841;
 }
 
@@ -161,6 +161,9 @@ img {
   font-size: 3rem;
   font-weight: 200;
   font-style: italic;
+  color: var(--main-red);
+}
+#join {
   color: var(--main-red);
 }
 
